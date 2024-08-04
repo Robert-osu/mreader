@@ -12,6 +12,8 @@ body {
     flex-direction: column;
     margin: 0;
     background-color: black;
+    user-select: none;
+    pointer-events: none;
 }
 
 
